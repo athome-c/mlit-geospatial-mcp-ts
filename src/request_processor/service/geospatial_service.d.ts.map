@@ -1,0 +1,1 @@
+{"version":3,"file":"geospatial_service.d.ts","sourceRoot":"","sources":["geospatial_service.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,YAAY,EAAE,eAAe,EAAE,MAAM,sBAAsB,CAAC;AAQrE,qBAAa,iBAAiB;IACpB,mBAAmB,CAAC,KAAK,EAAE,eAAe,GAAG,OAAO,CAAC,GAAG,CAAC;IAYzD,cAAc,CAAC,GAAG,EAAE,YAAY,GAAG,OAAO,CAAC,GAAG,CAAC;CAuFxD"}

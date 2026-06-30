@@ -1,0 +1,28 @@
+{
+  "name": "mlit-geospatial-mcp-ts",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "bin": {
+    "mlit-geospatial-mcp-ts": "dist/index.js"
+  },
+  "scripts": {
+    "build": "npx tsc",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "test:e2e": "tsx test/e2e/scenario.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.6.1",
+    "@turf/turf": "^7.2.0",
+    "axios": "^1.8.1",
+    "turf": "^3.0.14"
+  },
+  "devDependencies": {
+    "@types/node": "^22.13.9",
+    "tsx": "^4.19.3",
+    "typescript": "^5.8.2"
+  }
+}
